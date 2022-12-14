@@ -6,7 +6,7 @@ This repository contains source code for the project from this Swagger Codegen [
 
 ## Imitate local pet clinic
 
-To imitate local pet clinic, run Spring Boot app located [here](https://github.com/honest-niceman/swagger-provider.git).
+To imitate local pet clinic, run Spring Boot app located [here](https://github.com/jpa-buddy/local-pet-clinic).
 
 ## HTTP requests
 
