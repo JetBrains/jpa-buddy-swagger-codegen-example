@@ -1,3 +1,5 @@
+[![JetBrains team project](https://jb.gg/badges/team.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 # Swagger Codegen
 
 This repository contains source code for the project from this Swagger Codegen [video-guide](https://www.youtube.com/watch?v=eZq6D6OkoPY):
